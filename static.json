@@ -1,6 +1,7 @@
 {
 "headers":{
 "/*":{
-"X-Autor":"julia13_12"}
+"X-Autor":"julia13_12","Access-Control-Allow-Origin" :"*"
+}
 
 }}
